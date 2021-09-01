@@ -1,0 +1,15 @@
+__pycache__/
+generator/meteor-1.5/*
+generator/ckpt*
+stanford-corenlp*
+tools
+*.py[cod]
+*$py.class
+*.ipynb
+*.log
+*.pdf
+generator_data/stanford-corenlp-full-2018-10-05/
+.*.swp
+*.tar.gz
+*.pkl
+*.out
